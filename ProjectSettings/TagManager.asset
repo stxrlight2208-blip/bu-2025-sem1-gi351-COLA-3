@@ -13,11 +13,11 @@ TagManager:
   - UI
   - Ground
   - Interacable
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Mirror
+  - LaserTarget
+  - Obstacle
+  - Player
+  - Reciver
   - 
   - 
   - 
