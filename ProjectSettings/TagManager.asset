@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backgroud
+    uniqueID: 683208249
+    locked: 0
+  - name: 1
+    uniqueID: 4236467011
+    locked: 0
+  - name: 2
+    uniqueID: 2778121419
+    locked: 0
+  - name: Ground
+    uniqueID: 2930407383
+    locked: 0
+  - name: Tree
+    uniqueID: 2548050895
+    locked: 0
+  - name: Box
+    uniqueID: 2183977583
+    locked: 0
+  - name: cloud
+    uniqueID: 2708297379
+    locked: 0
+  - name: Star
+    uniqueID: 3049512273
+    locked: 0
+  - name: glass
+    uniqueID: 3902991991
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
