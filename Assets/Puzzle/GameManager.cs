@@ -1,41 +1,75 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static GameManager Instance { get; private set; }
 
-    [Header("Level Conditions")]
-    public int totalAltars = 2;
-    private int chargedAltars = 0;
+    [Header("UI Panels (Optional)")]
+    [SerializeField] private GameObject winPanel;
+    [SerializeField] private GameObject gameOverPanel;
 
-    [Header("UI & Exit")]
-    public GameObject exitDoor; // ประตูทางออก
-    public GameObject winUI;   // หน้าจอชนะ (Win Screen UI)
+    private bool isGameOver = false;
 
     private void Awake()
     {
-        Instance = this;
-    }
-
-    public void OnAltarCharged()
-    {
-        chargedAltars++;
-
-        // เมื่อชาร์จครบตามจำนวนแท่นใน map (2 แท่น)
-        if (chargedAltars >= totalAltars)
+        if (Instance == null)
         {
-            OpenExitDoor();
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
         }
     }
 
-    private void OpenExitDoor()
+    public void CompleteLevel()
     {
-        if (exitDoor != null) exitDoor.SetActive(false); // ปิดประตูที่กั้นทางออก หรือเล่น Animation เปิดประตู
+        if (isGameOver) return;
+
+        Debug.Log("YOU WIN! Level Cleared.");
+
+        if (winPanel != null)
+        {
+            winPanel.SetActive(true);
+        }
+
+        // ตัวอย่าง: โหลดฉากถัดไปหลังจากชนะ 2 วินาที (ปลดล็อกเมื่อมี Scene ถัดไป)
+        // Invoke(nameof(LoadNextScene), 2f);
     }
 
-    public void TriggerWin()
+    public void GameOver()
     {
-        if (winUI != null) winUI.SetActive(true); // แสดงสถานะชนะเมื่อผู้เล่นเดินถึงจุด exit
-        Time.timeScale = 0f; // หยุดเกม
+        if (isGameOver) return;
+        isGameOver = true;
+
+        Debug.Log("GAME OVER! Player Died.");
+
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(true);
+        }
+
+        // รีสตาร์ตฉากปัจจุบันหลังจากแพ้ 2 วินาที
+        Invoke(nameof(RestartScene), 2f);
+    }
+
+    public void RestartScene()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
+    }
+
+    public void LoadNextScene()
+    {
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            Debug.Log("No more levels! Game Cleared!");
+        }
     }
 }
