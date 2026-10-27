@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; // ใช้สำหรับการรีโหลดฉาก (Respawn Player)
+using UnityEngine.SceneManagement;
 
 public class Lava : MonoBehaviour
 {
@@ -9,7 +9,7 @@ public class Lava : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // 1. เช็กถ้าเป็น Orb ให้ Respawn กลับจุดเริ่มต้น
+        // 1. เช็กกรณี Orb ชน
         Orb orb = other.GetComponent<Orb>();
         if (orb != null)
         {
@@ -24,14 +24,29 @@ public class Lava : MonoBehaviour
             return;
         }
 
-        // 2. เช็กถ้าเป็น Player ให้รีโหลดฉากใหม่ทันที (Instant Respawn)
+        // 2. เช็กกรณี Player ชน
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            if (Checkpoint.hasCheckpoint)
+            {
+                // ย้ายตำแหน่ง Player ไปยัง Checkpoint ล่าสุด
+                other.transform.position = Checkpoint.lastCheckpointPosition;
+
+                // รีเซ็ตความเร็วของ Rigidbody2D ไม่ให้ตัวละครพุ่งต่อตอน Respawn
+                Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
+                if (rb != null)
+                {
+                    rb.linearVelocity = Vector2.zero;
+                }
+            }
+            else
+            {
+                // ถ้ายังไม่เคยผ่าน Checkpoint ให้ Reload Scene
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
         }
     }
 
-    // รองรับกรณีที่ Collider2D ไม่ได้ติ๊ก Is Trigger
     private void OnCollisionEnter2D(Collision2D collision)
     {
         OnTriggerEnter2D(collision.collider);
