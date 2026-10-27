@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 306f18b1d29d2d84b9cc47aa02b7a3e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6814417555113948137
+    second: gembreak_0
+  - first:
+      213: 7771795383575283046
+    second: gembreak_1
+  - first:
+      213: -6548292372616199051
+    second: gembreak_2
+  - first:
+      213: 106787733124979719
+    second: gembreak_3
+  - first:
+      213: -4255599609224573969
+    second: gembreak_4
+  - first:
+      213: 3635076415135313140
+    second: gembreak_5
+  - first:
+      213: 867501644048457473
+    second: gembreak_6
+  - first:
+      213: -474729327102456628
+    second: gembreak_7
+  - first:
+      213: 4808264783225187658
+    second: gembreak_8
+  - first:
+      213: 1470218586002226939
+    second: gembreak_9
+  - first:
+      213: -8036198566344432274
+    second: gembreak_10
+  - first:
+      213: 7476780280012009233
+    second: gembreak_11
+  - first:
+      213: 5944043284951951608
+    second: gembreak_12
+  - first:
+      213: 8337973190791980094
+    second: gembreak_13
+  - first:
+      213: -5786847117130998406
+    second: gembreak_14
+  - first:
+      213: -556073523466644069
+    second: gembreak_15
+  - first:
+      213: -1715527693364095956
+    second: gembreak_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gembreak_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 682
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4f3486535e61a0800000000000000
+      internalID: -6814417555113948137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 711
+        width: 144
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665860189b6fadb60800000000000000
+      internalID: 7771795383575283046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 699
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574cfcc08cacf15a0800000000000000
+      internalID: -6548292372616199051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 702
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9843a0e26b7100800000000000000
+      internalID: 106787733124979719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 699
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febc0e9d3b211f4c0800000000000000
+      internalID: -4255599609224573969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 655
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6a877db2627230800000000000000
+      internalID: 3635076415135313140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 563
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f5397262cf90c00800000000000000
+      internalID: 867501644048457473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 234
+        width: 166
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc0995313c6969f0800000000000000
+      internalID: -474729327102456628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 421
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d682658536ab240800000000000000
+      internalID: 4808264783225187658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 341
+        width: 138
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef6d0b304476410800000000000000
+      internalID: 1470218586002226939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_10
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 309
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6569844bffa97090800000000000000
+      internalID: -8036198566344432274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 229
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe2cd0d0cd2c760800000000000000
+      internalID: 7476780280012009233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86b11ffdb7d7250800000000000000
+      internalID: 5944043284951951608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 87
+        width: 110
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34e2e7c07e66b370800000000000000
+      internalID: 8337973190791980094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 32
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd9edf43df0bfa0800000000000000
+      internalID: -5786847117130998406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9555cc931e6848f0800000000000000
+      internalID: -556073523466644069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gembreak_16
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 36
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2410b2f6a83138e0800000000000000
+      internalID: -1715527693364095956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gembreak_0: -6814417555113948137
+      gembreak_1: 7771795383575283046
+      gembreak_10: -8036198566344432274
+      gembreak_11: 7476780280012009233
+      gembreak_12: 5944043284951951608
+      gembreak_13: 8337973190791980094
+      gembreak_14: -5786847117130998406
+      gembreak_15: -556073523466644069
+      gembreak_16: -1715527693364095956
+      gembreak_2: -6548292372616199051
+      gembreak_3: 106787733124979719
+      gembreak_4: -4255599609224573969
+      gembreak_5: 3635076415135313140
+      gembreak_6: 867501644048457473
+      gembreak_7: -474729327102456628
+      gembreak_8: 4808264783225187658
+      gembreak_9: 1470218586002226939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
