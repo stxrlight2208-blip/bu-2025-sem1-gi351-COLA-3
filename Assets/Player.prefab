@@ -116,7 +116,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  m_Sprite: {fileID: -2898413864832394014, guid: 8599ece6f3d3b624e9243934c3f7f481, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -139,13 +139,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57a2adad6729124458251f979e155be4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 7
+  walkSpeed: 5
+  sprintSpeed: 9
   jumpForce: 4
   groundCheck: {fileID: 3817159454014757602}
   groundCheckRadius: 0.2
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
+  interactCheck: {fileID: 0}
+  interactRadius: 1.5
+  interactableLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  maxHealth: 100
+  damageThreshold: 8
+  damageMultiplier: 5
 --- !u!50 &6631427530674483788
 Rigidbody2D:
   serializedVersion: 5
@@ -210,8 +219,8 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0.21133333}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.28866667}
-    oldSize: {x: 1, y: 1}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.79, y: 2.21}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

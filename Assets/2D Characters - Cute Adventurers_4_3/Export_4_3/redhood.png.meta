@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: ff919bc7f5a2114498d50deab22ae044
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6273823281228098253
+    second: redhood_0
+  - first:
+      213: 4701288565860769301
+    second: redhood_1
+  - first:
+      213: -8138292987533432348
+    second: redhood_2
+  - first:
+      213: -7891698020609850480
+    second: redhood_3
+  - first:
+      213: -5377623022661800416
+    second: redhood_4
+  - first:
+      213: 7347710156298239351
+    second: redhood_5
+  - first:
+      213: 2116077049479205799
+    second: redhood_6
+  - first:
+      213: -9191397548464555278
+    second: redhood_7
+  - first:
+      213: -3399316308580674225
+    second: redhood_8
+  - first:
+      213: -766481851846648662
+    second: redhood_9
+  - first:
+      213: -356760540469683106
+    second: redhood_10
+  - first:
+      213: 5958714520092812540
+    second: redhood_11
+  - first:
+      213: -788177209853356944
+    second: redhood_12
+  - first:
+      213: 7101397160356675986
+    second: redhood_13
+  - first:
+      213: -4796528974694402559
+    second: redhood_14
+  - first:
+      213: -6329463877486189249
+    second: redhood_15
+  - first:
+      213: -6512640598707837601
+    second: redhood_16
+  - first:
+      213: 807988160463668916
+    second: redhood_17
+  - first:
+      213: 8757980246063905722
+    second: redhood_18
+  - first:
+      213: -4003828043573806341
+    second: redhood_19
+  - first:
+      213: 2447663180720117738
+    second: redhood_20
+  - first:
+      213: 8872956910471807414
+    second: redhood_21
+  - first:
+      213: 2475112468529670977
+    second: redhood_22
+  - first:
+      213: 6095938824185961797
+    second: redhood_23
+  - first:
+      213: -6144623660155118979
+    second: redhood_24
+  - first:
+      213: 2560437443068272590
+    second: redhood_25
+  - first:
+      213: 3217629360143919301
+    second: redhood_26
+  - first:
+      213: 6904120160592876526
+    second: redhood_27
+  - first:
+      213: 2055265510162527387
+    second: redhood_28
+  - first:
+      213: 7340311665233356032
+    second: redhood_29
+  - first:
+      213: -20191017406862855
+    second: redhood_30
+  - first:
+      213: 7755645664736305860
+    second: redhood_31
+  - first:
+      213: -6939981887004363240
+    second: redhood_32
+  - first:
+      213: 640163964787634197
+    second: redhood_33
+  - first:
+      213: 8679602955070212591
+    second: redhood_34
+  - first:
+      213: -5622765651308693099
+    second: redhood_35
+  - first:
+      213: -2648208184568916499
+    second: redhood_36
+  - first:
+      213: -229027688481712729
+    second: redhood_37
+  - first:
+      213: 7481716867658290072
+    second: redhood_38
+  - first:
+      213: 1186871777617376079
+    second: redhood_39
+  - first:
+      213: 7986303768289506739
+    second: redhood_40
+  - first:
+      213: -6329756905578327992
+    second: redhood_41
+  - first:
+      213: 6634523491697645113
+    second: redhood_42
+  - first:
+      213: 4249435950209326156
+    second: redhood_43
+  - first:
+      213: 1206851746656489940
+    second: redhood_44
+  - first:
+      213: 8737952262619459111
+    second: redhood_45
+  - first:
+      213: -1635514611928290777
+    second: redhood_46
+  - first:
+      213: -2333519791853233614
+    second: redhood_47
+  - first:
+      213: -7953781253198085335
+    second: redhood_48
+  - first:
+      213: 8098308150573532258
+    second: redhood_49
+  - first:
+      213: -8755826039394124758
+    second: redhood_50
+  - first:
+      213: 5441670163637973517
+    second: redhood_51
+  - first:
+      213: -2996211628643227680
+    second: redhood_52
+  - first:
+      213: 3801983679387465994
+    second: redhood_53
+  - first:
+      213: -8445696016767494077
+    second: redhood_54
+  - first:
+      213: -8060064607341367474
+    second: redhood_55
+  - first:
+      213: 5933250977611144224
+    second: redhood_56
+  - first:
+      213: -2210715209315668542
+    second: redhood_57
+  - first:
+      213: -8507299238068449290
+    second: redhood_58
+  - first:
+      213: 4537094848947112243
+    second: redhood_59
+  - first:
+      213: 3134647338248214144
+    second: redhood_60
+  - first:
+      213: 5570787394942182671
+    second: redhood_61
+  - first:
+      213: 2772198534309548117
+    second: redhood_62
+  - first:
+      213: -6079143390887904730
+    second: redhood_63
+  - first:
+      213: 3981730217769650547
+    second: redhood_64
+  - first:
+      213: 1730659865108355158
+    second: redhood_65
+  - first:
+      213: -3137773559622299199
+    second: redhood_66
+  - first:
+      213: -8418707580288306623
+    second: redhood_67
+  - first:
+      213: 422777991684521969
+    second: redhood_68
+  - first:
+      213: 4680779957018752400
+    second: redhood_69
+  - first:
+      213: -2871778916138410760
+    second: redhood_70
+  - first:
+      213: 8305669716953211358
+    second: redhood_71
+  - first:
+      213: -5785707349592866776
+    second: redhood_72
+  - first:
+      213: -2346110332496671831
+    second: redhood_73
+  - first:
+      213: -4431142734431200383
+    second: redhood_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redhood_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d2d247f6eee8a0800000000000000
+      internalID: -6273823281228098253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9cbaca055e3140800000000000000
+      internalID: 4701288565860769301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9640875a9fe0f80800000000000000
+      internalID: -8138292987533432348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 248
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09385e6567e0b7290800000000000000
+      internalID: -7891698020609850480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 255
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee74e4a58de55b0800000000000000
+      internalID: -5377623022661800416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dbfa2157f48f560800000000000000
+      internalID: 7347710156298239351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a390937dd0dd5d10800000000000000
+      internalID: 2116077049479205799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 163
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fabf56b0a8917080800000000000000
+      internalID: -9191397548464555278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 172
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455bd3e3d333d0d0800000000000000
+      internalID: -3399316308580674225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 191
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac95e511d8ec55f0800000000000000
+      internalID: -766481851846648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c9d6bbd288c0bf0800000000000000
+      internalID: -356760540469683106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 195
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf42810194b91b250800000000000000
+      internalID: 5958714520092812540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 149
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d1aae005df05f0800000000000000
+      internalID: -788177209853356944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2910700b71b3d8260800000000000000
+      internalID: 7101397160356675986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b8748f4e4f6db0800000000000000
+      internalID: -4796528974694402559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 119
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35e4cb632a3928a0800000000000000
+      internalID: -6329463877486189249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 138
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556b3481e37e95a0800000000000000
+      internalID: -6512640598707837601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 139
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6882773fc863b00800000000000000
+      internalID: 807988160463668916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 140
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbf68cc1a89a8970800000000000000
+      internalID: 8757980246063905722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 94
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa39098b9b8f68c0800000000000000
+      internalID: -4003828043573806341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae710a0d1b8d7f120800000000000000
+      internalID: 2447663180720117738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b105049c43132b70800000000000000
+      internalID: 8872956910471807414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be9d92dad595220800000000000000
+      internalID: 2475112468529670977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ddd1c1010299450800000000000000
+      internalID: 6095938824185961797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 75
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a5ef13659e9baa0800000000000000
+      internalID: -6144623660155118979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 83
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf91b7e940888320800000000000000
+      internalID: 2560437443068272590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ee36fad057ac20800000000000000
+      internalID: 3217629360143919301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee350cad4bc50df50800000000000000
+      internalID: 6904120160592876526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 50
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94795c9715c58c10800000000000000
+      internalID: 2055265510162527387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e3e2a1960ed560800000000000000
+      internalID: 7340311665233356032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 35
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f96fcb606448bff0800000000000000
+      internalID: -20191017406862855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 38
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e76214a691ab60800000000000000
+      internalID: 7755645664736305860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 41
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816b57d4e3b30bf90800000000000000
+      internalID: -6939981887004363240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 42
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5103c27fbb152e800800000000000000
+      internalID: 640163964787634197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 45
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe90460b6e4247870800000000000000
+      internalID: 8679602955070212591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5993a7a4e6ce7f1b0800000000000000
+      internalID: -5622765651308693099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 50
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5dc7bdfacaf3bd0800000000000000
+      internalID: -2648208184568916499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 50
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a59150e78452dcf0800000000000000
+      internalID: -229027688481712729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_38
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 20
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89312dee9d564d760800000000000000
+      internalID: 7481716867658290072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43f1dae79d987010800000000000000
+      internalID: 1186871777617376079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57249c6fc05de60800000000000000
+      internalID: 7986303768289506739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 13
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8409d6081af2828a0800000000000000
+      internalID: -6329756905578327992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9365f98e6ff821c50800000000000000
+      internalID: 6634523491697645113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c50047b7709fa30800000000000000
+      internalID: 4249435950209326156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11508f4499fb010800000000000000
+      internalID: 1206851746656489940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ee0c58941734970800000000000000
+      internalID: 8737952262619459111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 19
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aad03302c7d49e0800000000000000
+      internalID: -1635514611928290777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a9e32ec1cad9fd0800000000000000
+      internalID: -2333519791853233614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 19
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92387f5571e7e9190800000000000000
+      internalID: -7953781253198085335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 21
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26406943b58f26070800000000000000
+      internalID: 8098308150573532258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 21
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3cc68b9e0d7680800000000000000
+      internalID: -8755826039394124758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bb70ce22b48b40800000000000000
+      internalID: 5441670163637973517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 21
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e763daf5615b66d0800000000000000
+      internalID: -2996211628643227680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_53
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 20
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09f8bb330c53c430800000000000000
+      internalID: 3801983679387465994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34854af483cdaca80800000000000000
+      internalID: -8445696016767494077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f28b491f5e42090800000000000000
+      internalID: -8060064607341367474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_56
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c50c31454275250800000000000000
+      internalID: 5933250977611144224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdaf21ea36f151e0800000000000000
+      internalID: -2210715209315668542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff8af4aa6000f980800000000000000
+      internalID: -8507299238068449290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3394fbff9bff6fe30800000000000000
+      internalID: 4537094848947112243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08698646521808b20800000000000000
+      internalID: 3134647338248214144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a0c2de996f4d40800000000000000
+      internalID: 5570787394942182671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550116411e3d87620800000000000000
+      internalID: 2772198534309548117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a767f6b4b82aba0800000000000000
+      internalID: -6079143390887904730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37949957982f14730800000000000000
+      internalID: 3981730217769650547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581fc65af9840810800000000000000
+      internalID: 1730659865108355158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1991972936474d0800000000000000
+      internalID: -3137773559622299199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f6095f0eba2b80800000000000000
+      internalID: -8418707580288306623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_68
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff753de7520ed500800000000000000
+      internalID: 422777991684521969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_69
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095fed1329875f040800000000000000
+      internalID: 4680779957018752400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc1d168a446528d0800000000000000
+      internalID: -2871778916138410760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_71
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed127bc2a9aa34370800000000000000
+      internalID: 8305669716953211358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_72
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820862dc1d905bfa0800000000000000
+      internalID: -5785707349592866776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_73
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab89a33511f07fd0800000000000000
+      internalID: -2346110332496671831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redhood_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bdc25092b6182c0800000000000000
+      internalID: -4431142734431200383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redhood_0: -6273823281228098253
+      redhood_1: 4701288565860769301
+      redhood_10: -356760540469683106
+      redhood_11: 5958714520092812540
+      redhood_12: -788177209853356944
+      redhood_13: 7101397160356675986
+      redhood_14: -4796528974694402559
+      redhood_15: -6329463877486189249
+      redhood_16: -6512640598707837601
+      redhood_17: 807988160463668916
+      redhood_18: 8757980246063905722
+      redhood_19: -4003828043573806341
+      redhood_2: -8138292987533432348
+      redhood_20: 2447663180720117738
+      redhood_21: 8872956910471807414
+      redhood_22: 2475112468529670977
+      redhood_23: 6095938824185961797
+      redhood_24: -6144623660155118979
+      redhood_25: 2560437443068272590
+      redhood_26: 3217629360143919301
+      redhood_27: 6904120160592876526
+      redhood_28: 2055265510162527387
+      redhood_29: 7340311665233356032
+      redhood_3: -7891698020609850480
+      redhood_30: -20191017406862855
+      redhood_31: 7755645664736305860
+      redhood_32: -6939981887004363240
+      redhood_33: 640163964787634197
+      redhood_34: 8679602955070212591
+      redhood_35: -5622765651308693099
+      redhood_36: -2648208184568916499
+      redhood_37: -229027688481712729
+      redhood_38: 7481716867658290072
+      redhood_39: 1186871777617376079
+      redhood_4: -5377623022661800416
+      redhood_40: 7986303768289506739
+      redhood_41: -6329756905578327992
+      redhood_42: 6634523491697645113
+      redhood_43: 4249435950209326156
+      redhood_44: 1206851746656489940
+      redhood_45: 8737952262619459111
+      redhood_46: -1635514611928290777
+      redhood_47: -2333519791853233614
+      redhood_48: -7953781253198085335
+      redhood_49: 8098308150573532258
+      redhood_5: 7347710156298239351
+      redhood_50: -8755826039394124758
+      redhood_51: 5441670163637973517
+      redhood_52: -2996211628643227680
+      redhood_53: 3801983679387465994
+      redhood_54: -8445696016767494077
+      redhood_55: -8060064607341367474
+      redhood_56: 5933250977611144224
+      redhood_57: -2210715209315668542
+      redhood_58: -8507299238068449290
+      redhood_59: 4537094848947112243
+      redhood_6: 2116077049479205799
+      redhood_60: 3134647338248214144
+      redhood_61: 5570787394942182671
+      redhood_62: 2772198534309548117
+      redhood_63: -6079143390887904730
+      redhood_64: 3981730217769650547
+      redhood_65: 1730659865108355158
+      redhood_66: -3137773559622299199
+      redhood_67: -8418707580288306623
+      redhood_68: 422777991684521969
+      redhood_69: 4680779957018752400
+      redhood_7: -9191397548464555278
+      redhood_70: -2871778916138410760
+      redhood_71: 8305669716953211358
+      redhood_72: -5785707349592866776
+      redhood_73: -2346110332496671831
+      redhood_74: -4431142734431200383
+      redhood_8: -3399316308580674225
+      redhood_9: -766481851846648662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
